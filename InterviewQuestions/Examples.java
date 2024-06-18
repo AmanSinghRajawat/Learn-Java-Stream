@@ -20,16 +20,6 @@ public class Examples{
                 
         Map<Boolean, List<Integer>> map = Arrays.stream(arr).boxed().collect(Collectors.partitioningBy(n -> n%2==0));
 
-List<List<Integer>> list1 = new ArrayList<>();
-List<List<Integer>> list2 = new ArrayList<>();
-
-for(boolean key : map.keySet()){
-    if(key) list1.add(map.get(key));
-    else list2.add(map.get(key));
-}
-
-
-System.out.println(list1+" : "+list2);
         System.out.println(odd+" : "+even);
         System.out.println(map);
 
