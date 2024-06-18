@@ -98,7 +98,7 @@ public class Employee {
 
 		System.out.println(maleFemale);
 
-		// Q2 all Department names
+		// Q2 All Department names
 
 		Map<String, Long> departmentName = employeeList.stream()
 				.collect(Collectors.groupingBy(Employee::getDepartment, Collectors.counting()));
