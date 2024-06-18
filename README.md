@@ -9,6 +9,8 @@ Q3. Sort the List in Reverse Order.
 
 Q4. Merge to Unsorted Array into Signle Sorted Array.
 
+Q5. Merge to Unsorted Array into Signle Sorted Array. Without Duplicates.
+
 ```
 
 # Query Using Java 8 Steams
