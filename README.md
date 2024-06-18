@@ -13,6 +13,8 @@ Q5. Merge to Unsorted Array into Signle Sorted Array. Without Duplicates.
 
 Q6. Three Max and Min Number from the List/Array.
 
+Q7. Sort an Integer Array in Reverse Order.
+
 ```
 
 # Query Using Java 8 Steams
