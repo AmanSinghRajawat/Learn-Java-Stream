@@ -11,6 +11,8 @@ Q4. Merge to Unsorted Array into Signle Sorted Array.
 
 Q5. Merge to Unsorted Array into Signle Sorted Array. Without Duplicates.
 
+Q6. Three Max and Min Number from the List/Array.
+
 ```
 
 # Query Using Java 8 Steams
