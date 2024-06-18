@@ -7,6 +7,8 @@ Q2. Print the Fequency of each character in String.
 
 Q3. Sort the List in Reverse Order.
 
+Q4. Merge to Unsorted Array into Signle Sorted Array.
+
 ```
 
 # Query Using Java 8 Steams
