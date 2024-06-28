@@ -15,6 +15,8 @@ Q6. Three Max and Min Number from the List/Array.
 
 Q7. Sort an Integer Array in Reverse Order.
 
+Q8. You have List of employee objects and in employee class you have id, name, department & doj. Can you fetch most experience employee from list ?.
+
 ```
 
 # Query Using Java 8 Steams
